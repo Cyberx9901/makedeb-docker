@@ -17,3 +17,5 @@ Link for project: https://github.com/makedeb/makedeb
 
 Project Hosted in https://git.disroot.org/Cyber/makedeb-docker, mirrored for Github.
 
+Project taken from the Makedeb repository, I chose this project to compare both packages, the compiled package is the one that shows the version in its name, the other one is downloaded from an external site.
+
