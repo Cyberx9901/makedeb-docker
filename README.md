@@ -10,3 +10,7 @@ Edit Dockerfile to use other git-hosted projects, or for local projects.
 By using makedeb the compilation uses PKGBUILD file format to compile and package.
 
 The project is still in the testing phase and may have flaws, feel free to report them as soon as you are sure you are doing everything correctly.
+
+Thanks to the Makedeb project for making it easy to create packages for Debian used in this Dockerfile. <3
+
+Link for project: https://github.com/makedeb/makedeb
