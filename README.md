@@ -14,3 +14,6 @@ The project is still in the testing phase and may have flaws, feel free to repor
 Thanks to the Makedeb project for making it easy to create packages for Debian used in this Dockerfile. <3
 
 Link for project: https://github.com/makedeb/makedeb
+
+Project Hosted in https://git.disroot.org/Cyber/makedeb-docker, mirrored for Github.
+
