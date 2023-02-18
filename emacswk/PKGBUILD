@@ -14,6 +14,7 @@ sha256sums=('b4a7cc4e78e63f378624e0919215b910af5bb2a0afc819fad298272e9f40c1b9')
 
 build() {
     cd emacs-$pkgver
+    cat README.txt
     ./configure --with-modules --with-x-toolkit=gtk3 --with-xwidgets --with-cairo --with-imagemagick --with-json --with-nativecomp --with-gnutls --with-harfbuzz --with-mailutils --with-xml2 --with-sound --with-x --with-xpm --with-jpeg --with-png --with-gif --with-tiff --with-webkit2
     make -j$(nproc)
 }
